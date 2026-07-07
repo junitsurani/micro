@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/admin/waitlist": {},
+    "/api/newsletter": {},
+    "/api/quote": {}
+  }
+}
