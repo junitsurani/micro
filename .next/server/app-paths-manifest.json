@@ -1,24 +1,5 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/api/admin/stats/route": "app/api/admin/stats/route.js",
-  "/api/admin/auth/check/route": "app/api/admin/auth/check/route.js",
-  "/api/admin/events/route": "app/api/admin/events/route.js",
-  "/api/admin/auth/route": "app/api/admin/auth/route.js",
   "/api/analytics/route": "app/api/analytics/route.js",
-  "/sitemap.xml/route": "app/sitemap.xml/route.js",
-  "/icon.svg/route": "app/icon.svg/route.js",
-  "/robots.txt/route": "app/robots.txt/route.js",
-  "/api/admin/waitlist/route": "app/api/admin/waitlist/route.js",
-  "/api/newsletter/route": "app/api/newsletter/route.js",
-  "/opengraph-image/route": "app/opengraph-image/route.js",
-  "/api/quote/route": "app/api/quote/route.js",
   "/page": "app/page.js",
-  "/access/page": "app/access/page.js",
-  "/terms-conditions/page": "app/terms-conditions/page.js",
-  "/privacy-policy/page": "app/privacy-policy/page.js",
-  "/experience/page": "app/experience/page.js",
-  "/secretdoor/page": "app/secretdoor/page.js",
-  "/secretdoor/dashboard/page": "app/secretdoor/dashboard/page.js",
-  "/secretdoor/dashboard/events/page": "app/secretdoor/dashboard/events/page.js",
-  "/secretdoor/dashboard/waitlist/page": "app/secretdoor/dashboard/waitlist/page.js"
+  "/access/page": "app/access/page.js"
 }
