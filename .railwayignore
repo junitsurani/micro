@@ -1,0 +1,25 @@
+.git/
+.git/**
+node_modules/
+node_modules/**
+.next/
+.next/**
+dist/
+dist/**
+.cache/
+.cache/**
+.turbo/
+.turbo/**
+coverage
+Design 1/
+Design 1/**
+Design 2/
+Design 2/**
+Design 3/
+Design 3/**
+public/micro-fe-assets/hero/
+public/micro-fe-assets/hero/**
+.env
+.env.*
+public/2819effe-b61c-4568-a26e-1ddf9ab23fe3.png
+public/d6026b9e-3227-4ec1-a19e-a54ce96fbba2.mp4

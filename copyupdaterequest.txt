@@ -1,0 +1,150 @@
+MICRO BY THE FIX
+Website Copy — FINAL & LOCKED
+Three pages, mapped to the live build · for Zera Studio
+
+Final, agreed copy for the three pages already built. Each block is labelled by its section on the live site so it drops straight into place. A short build-notes list is on the last page.
+Page 1 · Home  (/)
+
+HERO — HEADLINE
+Stillness with a pulse.
+HERO — DESCRIPTOR
+A sensory movement space — Chelsea, London
+NAV BUTTON (PERSISTENT, TOP CORNER)
+Request access
+HERO BUTTON
+Come closer
+SCROLL CUE
+Scroll
+ABOUT MICRO — STATEMENT
+Architected to settle the nervous system before the body moves.
+ABOUT MICRO — LINE BENEATH
+Felt before it is understood, where the experience forms part of the method.
+RITUAL INDEX — INTRO  (CHOOSE ONE)
+a.  Everything in the room for reason.
+c.  Read the parts. Feel the whole.
+RITUAL INDEX — THE SIX CARDS (TITLE · WORD)
+Movement · Controlled strength
+Recovery · Restoration
+Nutrition · Ritual
+Sound · Resonance
+Scent · Signal
+Community · Belonging
+RITUAL INDEX — GATE LINE
+Named, not explained. The rest reveals itself to Circle 001 first.
+THE ECOSYSTEM
+Movement, recovery and nutrition at our centre. Sound, scent, community woven through.
+THE FIRST SPACE
+Opening in Chelsea. A space composed to do its own work — before practice begins.
+CREATED WITH INTENTION — OVERLAY
+CREATED WITH INTENTION
+Built for a life lived well, not only a life lived longer.
+CLOSING — CIRCLE 001  (CHOOSE ONE)
+Considered in scale. Sixty founding memberships, by invitation only.
+NEWSLETTER
+Stay close. Occasional notes on movement, the nervous system, and the unfolding of MICRO.
+FOOTER — SIGN-OFF
+Make it quiet enough to hear. Warm enough to feel.
+BRAND SIGNATURE (RECURRING — FOOTER MARK, EMAIL SIGN-OFF, INSTAGRAM BIO)
+More life. Not just more years.
+The short, repeatable signature. The longer “Built for a life lived well, not only a life lived longer” stays once, in Created with Intention.
+Page 2 · The Experience  (/experience)
+
+HERO
+The room begins before you do.
+QUIET LINE (BENEATH HERO)
+Experienced, not observed.
+OPTIONAL — THE CULTURAL TRUTH (RECOGNITION BEAT · CHOOSE ONE, OR OMIT)
+The human being is not a set of problems to be optimised.
+ABOUT MICRO — HEADING
+Controlled activation, intentionally designed.
+SUB-LINE UNDER THE HEADING
+Precision over intensity. Adaptation over exhaustion.
+ABOUT MICRO — BODY  
+The Lagree Microformer at its centre, slow and deliberate, with proprietary formats around it. Light, scent and sound do the quiet work before practice begins.
+THE METHOD, IN BRIEF
+Strength through precision, not force. Structure beneath the surface.
+STANDOUT LINE
+The space is not decoration. It is the method.
+OPTIONAL — ONE SUMMARY LINE (CHOOSE ONE; PLACEMENT TBD — HOME HERO AREA OR HERE)
+You’ll work harder than you expect, and leave calmer than you came..
+MANIFESTO — HEADING
+More than movement.
+MANIFESTO — BODY  (CHOOSE ONE)
+Art, music, design and community are part of the practice, not adornments to it. We believe in joie de vivre as the ultimate form of longevity. Not only alive, but living.
+OUR VALUES (FOUR — ADD A FOURTH SLOT)
+Intentional — chosen with reason. A discipline, not an aesthetic.
+Precise — the science real, the method exact. Rigour without pressure.
+Cultured — art, music and connection, never decoration.
+Collaborative — the best in their field, brought into the room.
+Resilient — built to endure. In the body, in the practice, and in life.  [optional 5th — for the future, if the section can’t hold it now]
+WHAT DRIVES THE METHOD (THREE WORDS — REPLACES STRENGTH/REGULATION/RETURN)
+Ground · Ignite · Restore
+Strength built, the nervous system settled — the kind of change that holds.
+FEATURED PATHWAYS — THE FORMATS
+Every modality chosen for its merit. Every programme led by the foremost in their field. Named to those who come closer.
+FOUNDING ACCESS — HEADING
+Be part of the first circle, before the doors open.
+FOUNDING ACCESS — BODY
+Sixty memberships, by invitation. The first to feel it. The first to belong.
+FOUNDING ACCESS — BUTTONS
+Come closer   ·   Speak with the team
+Page 3 · Access  (/access)
+
+HERO
+Come closer.
+SUB
+The founding list for Chelsea.
+LOCATION
+60 Sloane Avenue, Chelsea, London SW3 3AP
+CONTACT
+hello@microbythefix.com  ·  @microbythefix
+FORM — FIELDS
+Name · Email · What drew you to MICRO?
+FORM — BUTTON
+Request access
+FORM — CONFIRMATION
+You’re in. We’ll be in touch — quietly, and only when it matters.
+PRIVATE ACCESS — HEADING
+Private access, for a quieter kind of strength.
+PRIVATE ACCESS — BODY  
+The founding list for Chelsea. Movement, recovery, nutrition and sensory design, held as one practice.
+FAQ — HEADING
+The questions before you arrive.
+What is MICRO?
+MICRO is a sensory movement studio in Chelsea, London — one of the city’s few Lagree Microformer studios. It brings together movement, recovery and nutrition in a space architected to settle the nervous system before the body moves. Opening on Sloane Avenue, 2026.
+Where is MICRO?
+60 Sloane Avenue, Chelsea, London SW3 3AP.
+Is this Lagree?
+The Lagree Microformer sits at the centre — but it isn’t the whole of it. Five proprietary formats are built around it, developed in-house and unique to the studio.
+Who is MICRO for?
+For the body that has done everything and still feels it — and for the body just beginning. MICRO is for the exhausted and the curious, the first-timer and the lifelong athlete. Not only movement, but recovery, nutrition and a space that settles the nervous system — meeting you where you are.
+What happens inside?
+Some things are better felt than explained. The five proprietary formats reveal themselves to founding members of Circle 001 first.
+How does membership work?
+Membership is a tiered approach, centred on the depth of practice — not a ladder of packages. You won’t find a beginner option and a premium one here; you’ll find a way in, and a way deeper. Founding access opens first to Circle 001 — sixty members, by invitation.
+Is there food?
+Nutrition is part of the practice, not an afterthought — every modality chosen for its merit, not its moment.
+When does Chelsea open?
+Autumn 2026. Founding Circle 001 members are granted first access.
+How does booking work?
+Booking opens to the founding list first, in phases.
+STAY CLOSE
+Follow @microbythefix — we’ll see you there.
+Global microcopy
+
+404 PAGE
+Lost the thread? Let’s get you back to centre.
+FORM HELPER (UNDER “WHAT DREW YOU TO MICRO?”)
+A word is enough.
+COOKIE BANNER
+We keep it minimal — here too.
+LOADING STATE
+Settling…
+Build notes for Jerry
+
+• Map pin: the Access map currently resolves to SW3 3DD — correct it to SW3 3AP.
+• Buttons: keep the persistent “Request access” in the top corner; the hero CTA is the warmer “Come closer”; the Access form submit is “Request access”.
+• Our Values: four now (Intentional · Precise · Cultured · Collaborative) — the section currently has three slots, please add a fourth.
+• What drives the method: replace the animated words Strength / Regulation / Return with Ground · Ignite · Restore.
+• Waitlist form posts to our Airtable base + emails hello@ on submit, with a consent checkbox? What do you suggest?
+MICRO by The Fix · Final & Locked (3 Pages) · 1

@@ -1,0 +1,212 @@
+[
+  {
+    "slug": "about-hero-interior",
+    "size": "1536x1024",
+    "prompt": "Wide hero view of a calm sensory strength studio threshold, smoked oxblood glass on one side, textured plaster wall on the other, a precise amber light line cutting vertically through the scene, spacious negative space for headline overlay."
+  },
+  {
+    "slug": "about-intro-material",
+    "size": "1536x1024",
+    "prompt": "Close architectural material study for a wellness studio: curved plaster, brushed stone, warm red-brown reflection, soft grazing light, tactile surface detail, abstract enough to support copy beside it."
+  },
+  {
+    "slug": "about-story-threshold",
+    "size": "1024x1024",
+    "prompt": "Square moody arrival threshold in a boutique wellness studio, dark plaster corridor, thin amber light from a hidden doorway, burgundy glass reflection, no black letterbox, centered composition."
+  },
+  {
+    "slug": "contact-access",
+    "size": "1024x1536",
+    "prompt": "Portrait image for founding access waitlist: quiet reception alcove, sculptural stone bench, warm side light, smoked glass reflection, intimate premium studio atmosphere, no people."
+  },
+  {
+    "slug": "showroom-chelsea",
+    "size": "1536x1024",
+    "prompt": "Wide cinematic Chelsea wellness studio exterior-interior transition, dark entry curtain, warm glow beyond, polished stone floor, sensory recovery atmosphere, no signage."
+  },
+  {
+    "slug": "dual-strength-room",
+    "size": "1024x1536",
+    "prompt": "Portrait interior detail suggesting Lagree microformer strength without showing branded equipment: low sculptural platform silhouette, warm amber floor light, burgundy glass, controlled precision mood."
+  },
+  {
+    "slug": "dual-sensory-material",
+    "size": "1024x1536",
+    "prompt": "Portrait tactile sensory recovery material detail: curved plaster, ribbed glass, oxblood reflection, soft cream highlight, quiet luxury spa-studio mood, abstract composition."
+  },
+  {
+    "slug": "footer-left-texture",
+    "size": "1024x1024",
+    "prompt": "Square dark material texture for footer collage, smoky burgundy glass and charcoal plaster, subtle warm reflection, quiet atmospheric gradient, no objects."
+  },
+  {
+    "slug": "footer-right-texture",
+    "size": "1024x1024",
+    "prompt": "Square warm stone and plaster detail for footer collage, cream taupe surface, amber glow at one edge, soft shadow, premium wellness material palette."
+  },
+  {
+    "slug": "og-micro-studio",
+    "size": "1536x1024",
+    "prompt": "Open graph campaign visual for MICRO by The Fix: abstract warm sensory strength studio, smoky dark left side, cream light right side, amber center glow, enough negative space, no text."
+  },
+  {
+    "slug": "premium-microformer-training",
+    "size": "1024x1536",
+    "prompt": "Portrait premium pathway image for controlled Microformer training: sculptural low platform silhouette, precise floor light, burgundy glass panels, disciplined strength and stillness."
+  },
+  {
+    "slug": "premium-recovery-rituals",
+    "size": "1024x1536",
+    "prompt": "Portrait premium pathway image for recovery rituals: dim recovery room, warm amber slit light, textured plaster, soft sound and breathwork atmosphere, abstract calm."
+  },
+  {
+    "slug": "premium-founding-memberships",
+    "size": "1024x1536",
+    "prompt": "Portrait premium pathway image for founding memberships: intimate member lounge threshold, warm glow, sculptural bench, tactile plaster, exclusive first-access mood."
+  },
+  {
+    "slug": "category-lagree-microformer",
+    "size": "1024x1536",
+    "prompt": "Tall category image for Lagree Microformer: controlled strength studio detail, low equipment-inspired silhouette without branding, clean linear light, oxblood and stone palette."
+  },
+  {
+    "slug": "category-regulation-rituals",
+    "size": "1024x1536",
+    "prompt": "Tall category image for regulation rituals: soft dark recovery space, curved plaster wall, quiet amber light halo, sensory calm and breath-led atmosphere."
+  },
+  {
+    "slug": "category-founding-memberships",
+    "size": "1024x1536",
+    "prompt": "Tall category image for founding memberships: premium arrival corner, burgundy smoked glass, warm stone, hidden doorway light, exclusive and quiet."
+  },
+  {
+    "slug": "featured-the-studio",
+    "size": "1024x1536",
+    "prompt": "Portrait member pathway image called The Studio: refined boutique strength room, tactile plaster, warm light edge, minimal sculptural form, no people."
+  },
+  {
+    "slug": "featured-the-method",
+    "size": "1024x1536",
+    "prompt": "Portrait member pathway image called The Method: abstract layered surfaces showing precision, nervous-system calm, burgundy glass, amber line, stone texture."
+  },
+  {
+    "slug": "featured-the-community",
+    "size": "1024x1536",
+    "prompt": "Portrait member pathway image called The Community: warm empty lounge niche, paired low seating silhouettes, intimate glow, premium material palette, no people."
+  },
+  {
+    "slug": "featured-digital-layer",
+    "size": "1024x1536",
+    "prompt": "Portrait member pathway image called The Digital Layer: abstract light grid reflected on smoked glass and plaster, subtle technology mood, still tactile and warm."
+  },
+  {
+    "slug": "service-lagree-microformer",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Lagree Microformer: a precise low-impact strength studio with a sculptural carriage-like platform silhouette, warm floor light, quiet intensity."
+  },
+  {
+    "slug": "service-regulation-rituals",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Regulation Rituals: a calm ritual room with curved plaster, soft amber glow, smoky glass, meditative sensory atmosphere."
+  },
+  {
+    "slug": "service-founding-access",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Founding Access: an exclusive studio threshold with warm light beyond a dark doorway, tactile stone floor, first-access anticipation."
+  },
+  {
+    "slug": "service-low-impact-strength",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Low-Impact Strength: minimal strength zone with low horizontal forms, burgundy reflection, controlled low-impact movement suggested without people."
+  },
+  {
+    "slug": "service-sensory-recovery",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Sensory Recovery: soft recovery alcove with textured walls, amber wash, shadow gradient, quiet nervous-system reset mood."
+  },
+  {
+    "slug": "service-sound-breathwork",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Sound and Breathwork: abstract sound room with ribbed glass, subtle circular acoustic forms, warm low light, deep calm."
+  },
+  {
+    "slug": "service-nourishment-rituals",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Nourishment Rituals: small stone counter detail with warm cup-like silhouette, plaster texture, burgundy shadow, refined wellness hospitality."
+  },
+  {
+    "slug": "service-infrared-recovery",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Infrared Recovery: deep red infrared glow through smoked glass and stone, atmospheric recovery chamber, premium not clinical."
+  },
+  {
+    "slug": "service-microformer-foundations",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Microformer Foundations: foundation class environment with clean linear floor markings, sculptural platform detail, amber precision light."
+  },
+  {
+    "slug": "service-controlled-activation",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Controlled Activation: focused activation room with dramatic side light, textured wall, low equipment silhouette, tension and calm."
+  },
+  {
+    "slug": "service-mobility-reset",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Mobility Reset: quiet mobility mat zone implied by a soft rectangular platform, plaster wall, warm grazing light, spacious calm."
+  },
+  {
+    "slug": "service-recovery-flow",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Recovery Flow: flowing shadows over curved plaster and smoked burgundy glass, recovery rhythm, warm materiality."
+  },
+  {
+    "slug": "service-community-sessions",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Community Sessions: empty intimate gathering nook with two sculptural benches, warm glow, no people, exclusive community mood."
+  },
+  {
+    "slug": "service-private-onboarding",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Private Onboarding: private consultation alcove, stone ledge, concealed amber light, tactile walls, calm premium privacy."
+  },
+  {
+    "slug": "service-digital-membership",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Digital Membership: abstract digital reflection on smoked glass, soft grid of warm light, tactile plaster background, human but no devices."
+  },
+  {
+    "slug": "service-founding-circle",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Founding Circle: subtle circular light pattern on stone and glass, founding circle mood, warm exclusive atmosphere."
+  },
+  {
+    "slug": "service-studio-events",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Studio Events: empty evening studio setting with a warm central glow, sculptural shadows, event-ready but quiet."
+  },
+  {
+    "slug": "service-nervous-system-reset",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Nervous System Reset: dark-to-warm gradient over textured plaster, calming light pulse, sensory regulation visual."
+  },
+  {
+    "slug": "service-full-micro-method",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for The Full Micro Method: composed overview of glass, stone, light, and sculptural platform cues, complete ecosystem mood."
+  },
+  {
+    "slug": "service-orientation",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Orientation: welcoming arrival detail with floor line leading toward warm light, soft stone, clear first-step atmosphere."
+  },
+  {
+    "slug": "service-recovery-protocol",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Recovery Protocol: structured recovery room detail, amber vertical light, ribbed glass, calm protocol precision."
+  },
+  {
+    "slug": "service-member-care",
+    "size": "1024x1536",
+    "prompt": "Unique portrait card image for Member Care: warm member-care corner with folded towel-like stone form, soft plaster, intimate hospitality mood."
+  }
+]

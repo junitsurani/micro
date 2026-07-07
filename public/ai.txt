@@ -1,0 +1,9 @@
+# https://microbythefix.com/llms.txt
+
+User-agent: *
+Allow: /
+
+# Purpose: machine-readable summary for AI / answer engines.
+# See: https://microbythefix.com/llms.txt
+
+Sitemap: https://microbythefix.com/sitemap.xml
